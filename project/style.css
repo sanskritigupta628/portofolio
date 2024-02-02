@@ -7,7 +7,7 @@
 }
 body
 {
-  color: aliceblue;
+  color: rgb(251, 255, 254);
 }
 .header
 {
@@ -26,7 +26,7 @@ body
 {
   display: inline-block;
   font-size: 25px;
-  color: azure;
+  color: rgb(247, 247, 247);
   text-decoration: none;
   font-weight: 600;
 }
@@ -34,7 +34,7 @@ body
 {
   display: inline-block;
   font-size: 25px;
-  color: bisque;
+  color: rgb(241, 242, 243);
   text-decoration: none;
   font-weight: 500;
   margin-left: 35px;
@@ -42,7 +42,7 @@ body
 }
 .navbar a:hover
 {
-  color: aqua;
+  color: rgb(250, 250, 250);
 }
 .Home
 {
